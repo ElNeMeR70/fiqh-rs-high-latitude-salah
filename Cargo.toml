@@ -1,0 +1,10 @@
+[package]
+name = "fiqh-rs-high-latitude-salah"
+version = "1.0.0"
+edition = "2021"
+description = "High-Latitude Abnormal Night Fajr/Isha Estimation Engine"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "fiqh_rs_high_latitude_salah"
+path = "main.rs"
